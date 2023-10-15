@@ -1,7 +1,7 @@
 # Hi there, I'm Dewi Kuswanti [Freelance web dev][Exportir] 👋 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dewikuswantilabel=Profile%20views&color=ff0505&style=flat-square" alt="dewikuswanti" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Dewikuswantilabel=Profile%20views&color=ff0505&style=flat-square" alt="dewikuswanti" /> </p>
 
 ## I'm a Freelance Web Dev, and Exportir!!
 

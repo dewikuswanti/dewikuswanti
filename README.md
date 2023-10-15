@@ -3,7 +3,7 @@
 ## I'm a Freelance Web Dev, and Exportir!!
 
 - 🌱 I’m currently learning everything and me is freelance web dev 🤣
-- 🥅 2023 Goals: Learn more about web3
+- 🥅 2023 Goals: Learn more about redux, golang 
 - ⚡ Fun fact: I love to draw and gardening
 - 📫 How to reach me **dewikuswanti.dk@gmail.com**
 
